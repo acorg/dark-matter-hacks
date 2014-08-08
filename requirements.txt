@@ -1,0 +1,17 @@
+biopython
+numpy
+ipython
+tornado
+pyzmq
+matplotlib
+pandas
+simplejson
+pytagcloud
+discover
+reportlab
+pep8
+pyflakes
+mock
+MySQL-python
+scipy
+dark-matter
